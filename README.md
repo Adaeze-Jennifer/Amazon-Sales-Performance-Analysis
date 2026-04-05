@@ -89,4 +89,4 @@ lift overall revenue.
 
 ## File Structure 
 - [Amazon Sales Performance Analysis](Amazon-Sales-Performance-Analysis-Python) - Main Python notebook with the analysis.
-- [READM.md](README.md) - Project Overview and Documentation
+- [README.md](README.md) - Project Overview and Documentation
