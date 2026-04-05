@@ -24,7 +24,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on Amazon sal
 
 ## 📈KEY TRENDS DISCOVERED
 ### 1. Overall Performance: 
-The business generated a total revenue of $32,866,573.74 across 149,970 units sold — 
+The business generated a total revenue of $32,866,573.74 across 149,970 units sold,
 establishing a strong top-line performance baseline across the analysis period.
  
 ### 2. Sales Trend Over Time: 
@@ -34,17 +34,17 @@ in February 2023. Sales recovered through mid-2023, then declined again toward y
 irregular pattern suggests revenue is driven by seasonal demand or promotional activity rather 
 than steady organic growth.
 
-### 3. Category Performance:🛠🔍📸💻📉
+### 3. Category Performance:🛠🔍📸💻
 All six product categories performed within a narrow revenue band. Beauty led with $5,550,625, 
 followed by Books ($5,484,863), Fashion ($5,480,123), Home & Kitchen ($5,473,133), 
 Electronics ($5,470,594), and Sports at the bottom with $5,407,236. The gap between the highest 
-and lowest categories is only $143,000 — indicating a well-diversified, balanced product 
+and lowest categories is only $143,000 indicating a well-diversified, balanced product 
 portfolio with no single dominant category.
 
 ### 4. Regional Performance:
 The Middle East is the top-performing region with approximately $8.30M in revenue, followed 
 by North America ($8.28M), Asia ($8.18M), and Europe (~$8.11M). The revenue gap across all 
-four regions is approximately $189,500 — reflecting a globally balanced customer base with no 
+four regions is approximately $189,500 reflecting a globally balanced customer base with no 
 single region dominating sales.
 
 ### 5. Customer Purchasing Behaviour: 
@@ -60,7 +60,7 @@ relationship. While higher quantities sold generally correspond with higher reve
 moderate score confirms that price per unit and discount levels also significantly influence 
 revenue outcomes.
 
-## BUSINESS IMPLICATIONS
+## 📉BUSINESS IMPLICATIONS
 - Diversification is a strength but also a risk. The near-equal performance across all categories 
 and regions means no single segment can be relied upon as a growth engine. The business needs 
 a deliberate strategy to identify and accelerate its highest-potential segment. 
