@@ -60,7 +60,7 @@ relationship. While higher quantities sold generally correspond with higher reve
 moderate score confirms that price per unit and discount levels also significantly influence 
 revenue outcomes.
 
-## 📉BUSINESS IMPLICATIONS
+## 💡BUSINESS IMPLICATIONS/RECOMMENDATIONS
 - Diversification is a strength but also a risk. The near-equal performance across all categories 
 and regions means no single segment can be relied upon as a growth engine. The business needs 
 a deliberate strategy to identify and accelerate its highest-potential segment. 
