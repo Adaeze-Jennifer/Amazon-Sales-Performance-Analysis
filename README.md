@@ -58,7 +58,7 @@ four regions is approximately $189,500 reflecting a globally balanced customer b
 single region dominating sales.
 
 ### 5. Customer Purchasing Behaviour: 
-Order quantities are distributed almost perfectly evenly across all five levels — 1 qty (20.1%, 
+Order quantities are distributed almost perfectly even across all five levels — 1 qty (20.1%, 
 10,060 orders), 2 qtys (19.8%, 9,914 orders), 3 qtys (20.1%, 10,026 orders), 4 qtys (20.0%, 9,996 
 orders), and 5 qtys (20.0%, 10,004 orders). Customers show no tendency toward bulk or single
 unit purchasing, suggesting that quantity decisions are driven by individual product need or 
@@ -88,5 +88,5 @@ America by a narrow margin. Targeted regional campaigns could close this gap and
 lift overall revenue.
 
 ## File Structure 
-- [Amazon Sales Performance Analysis](Amazon-Sales-Performance-Analysis-Python) - Main Python notebook with the analysis.
+- [AMAZON SALES PERFORMANCE ANALYSIS](Amazon-Sales-Performance-Analysis) - Main Python notebook with the analysis.
 - [README.md](README.md) - Project Overview and Documentation
