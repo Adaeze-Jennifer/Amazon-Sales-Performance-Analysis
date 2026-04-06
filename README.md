@@ -19,7 +19,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on Amazon sal
 
 ## 📚Dataset Description
 - **Source:** Amazon sales dataset containing order-level 50,000 transaction data.
-- **Columns:** order_date, product_category, price, disounted_price, discounted_percent, quantity_sold, customer_region, total_revenue, etc 
+- **Columns:** order_id, order_date, product_id, product_category, price, disounted_price, discount_percent, quantity_sold, customer_region, total_revenue, payment_method, and review_count.
 
 ## 🛠Tools & Technologies Used
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
